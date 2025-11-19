@@ -10,7 +10,7 @@ public class Zarbezabani {
         
             System.out.println("");
             
-           for(int x = 1; x<=110; x++){
+           for(int x = 1; x<=10; x++){
             System.out.print("  ");   
             int m = x*i;
                 if(m<10){
@@ -26,3 +26,4 @@ public class Zarbezabani {
         }
     }   
 }
+
